@@ -50,7 +50,7 @@ namespace Currency_Converter
                 county[i] = Rate;
             }
         }
-        //1,046196356557298
+
         private void currencyMoney(object sender, KeyEventArgs e)
         {
             converMoney();
@@ -101,6 +101,18 @@ namespace Currency_Converter
             cbSecondCurrency.SelectedIndex = cbFirstCurrency.SelectedIndex;
             cbFirstCurrency.SelectedIndex= index;
             converMoney();
+        }
+
+        
+
+        private void PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            e.Handled = !IsTextAllowed(e.Text);
+        }
+        private static readonly Regex _regex = new Regex("[^0-9]+"); //regex that matches disallowed text
+        private static bool IsTextAllowed(string text)
+        {
+            return !_regex.IsMatch(text);
         }
     }
 }

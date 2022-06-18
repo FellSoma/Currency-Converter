@@ -22,6 +22,7 @@
         </Grid.ColumnDefinitions>
 
         <TextBox 
+            PreviewTextInput="PreviewTextInput"
             Grid.Column="0"
             FontWeight="DemiBold"
             Grid.Row="2"

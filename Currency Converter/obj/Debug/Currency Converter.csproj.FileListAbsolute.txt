@@ -14,3 +14,19 @@ C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\Currency Converter\C
 C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
 C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
 C:\Users\nfeli\OneDrive\Рабочий стол\всё\Оп\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
+I:\Gits\CurrencyConverter\Currency Converter\bin\Debug\Currency Converter.exe.config
+I:\Gits\CurrencyConverter\Currency Converter\bin\Debug\Currency Converter.exe
+I:\Gits\CurrencyConverter\Currency Converter\bin\Debug\Currency Converter.pdb
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.csproj.SuggestedBindingRedirects.cache
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\MainWindow.g.cs
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\App.g.cs
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter_MarkupCompile.cache
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter_MarkupCompile.lref
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\MainWindow.baml
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.g.resources
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.exe
+I:\Gits\CurrencyConverter\Currency Converter\obj\Debug\Currency Converter.pdb

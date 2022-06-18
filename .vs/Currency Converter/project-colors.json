@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b41ce152-d511-417c-9e53-8d43b8d1a7ff": {
+      "ProjectGuid": "b41ce152-d511-417c-9e53-8d43b8d1a7ff",
+      "DisplayName": "Currency Converter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
